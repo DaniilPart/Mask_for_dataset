@@ -1,0 +1,1 @@
+If you need to teach the algorithm to recognise a new type of objects that are not present in your dataset, you can use this script, which overlays the objects onto a background and automatically labels them in the corresponding masks.
